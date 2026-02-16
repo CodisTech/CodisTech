@@ -59,4 +59,4 @@
 ## Connect
 
 - **Website:** [cyberreadylabs.com](https://cyberreadylabs.com)
-- **LinkedIn:** [linkedin.com/in/johncodis](https://linkedin.com/in/johncodis)
+- **LinkedIn:** [linkedin.com/in/john-codis](https://linkedin.com/in/john-codis)
