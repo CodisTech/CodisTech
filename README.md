@@ -1,62 +1,64 @@
-# John Codis
+# John N. Codis Jr.
 
-**Cybersecurity Engineer | CISSP | CCSP | Building security infrastructure and compliance automation**
+**Fractional CISO · GRC Engineering · Applied AI for Security**
 
-15+ years designing, implementing, and securing enterprise systems — from aircraft carrier combat systems to production cloud infrastructure. Currently building [CyberReadyLabs](https://cyberreadylabs.com), a cybersecurity consulting firm delivering fractional CISO services and security assessments for small and mid-sized businesses.
+CISSP · CCSP · Navy veteran · Based in Ann Arbor, MI
 
-## What I Build
+Founder of [CyberReadyLabs](https://cyberreadylabs.com), a fractional CISO practice
+helping small and mid-sized businesses get assessment, compliance, and policy
+automation done without a full-time security team. 15+ years across cybersecurity
+governance, federal compliance, and security operations — bridging policy and
+engineering with hands-on infrastructure, detection, and applied AI.
 
-### Security Monitoring and Detection
-- Deployed enterprise Wazuh SIEM across a segmented network — triaged **2,337 vulnerabilities** including 8 critical findings
-- Implemented centralized logging, file integrity monitoring, and active response with NIST 800-53 control mapping
-- **Repo:** [homelab-configs/wazuh](https://github.com/CodisTech/homelab-configs/tree/main/wazuh)
+---
 
-### Policy-as-Code and Compliance Automation
-- Built compliance policies as code using OPA (Rego), Chef InSpec, and HashiCorp Sentinel
-- Automated CIS benchmark validation, container security enforcement, and continuous compliance reporting
-- **Repo:** [policy-as-code](https://github.com/CodisTech/policy-as-code)
+## Focus Areas
 
-### Hardened Infrastructure
-- Production infrastructure with defense-in-depth: Traefik reverse proxy, CrowdSec threat detection, Authentik SSO, network segmentation across isolated VLANs
-- GitOps workflow with automated dependency updates (Renovate), container monitoring (Diun), and version-controlled configurations
-- **Repo:** [homelab-configs](https://github.com/CodisTech/homelab-configs)
+### Applied AI & LLM Engineering
+Production LLM applications for security operations and document workflows —
+Anthropic Claude API integration, prompt engineering, multi-stage pipelines with
+grounded verification, and vision/multimodal extraction.
 
-### Workflow Automation
-- n8n automation platform for security operations, content publishing, and business process orchestration
-- Integrated with Telegram for approval workflows and real-time alerting
+→ [`francis`](https://github.com/CodisTech/francis) — self-verifying AI security digest
 
-## Technical Stack
+### Security Operations & Automation
+SIEM-centered detection and security automation — Wazuh tuning, custom Python
+reconciliation tooling, vulnerability and patch workflows, alert pipelines.
 
-**Security:** Wazuh SIEM | CrowdSec | Authentik SSO/MFA | pfSense/OPNsense | Pi-hole DNS Filtering
+→ [`cve-patch-watch`](https://github.com/CodisTech/cve-patch-watch) — stale-vs-real CVE reconciler
 
-**Infrastructure:** Proxmox VE | Docker | Traefik | Cloudflare | Unraid
+### Policy-as-Code & Compliance Automation
+Designed and operate a Policy-as-Code framework for CyberReadyLabs engagements:
+4 OPA/Rego policy domains, 7 InSpec/Cinc hardening profiles, 44 controls —
+mapped to NIST CSF 2.0 and CIS Controls v8, with scan results scored and piped
+into a Wazuh SIEM for continuous compliance monitoring.
+*Proprietary client work — demo available on request.*
 
-**Compliance:** NIST 800-53 | NIST CSF | RMF | ISO 27001 | SOC 2 | PCI-DSS
+### Security Architecture & Infrastructure
+Self-built multi-node Proxmox lab with segmented VLANs, OPNsense, Wazuh SIEM,
+Authentik zero-trust access, Traefik + Cloudflare Tunnels, k3s, CrowdSec — the
+platform underneath the AI and detection work.
 
-**Automation:** n8n | Renovate | Diun | GitOps workflows
+→ [`homelab`](https://github.com/CodisTech/homelab) — architecture overview
 
-**Policy-as-Code:** Open Policy Agent (Rego) | Chef InSpec | HashiCorp Sentinel
+---
 
-## Certifications
+## Frameworks & Standards
 
-- **CISSP** — Certified Information Systems Security Professional (ISC2)
-- **CCSP** — Certified Cloud Security Professional (ISC2)
-- **CC** — Certified in Cybersecurity (ISC2)
-- **Lean Six Sigma Green Belt**
+NIST CSF 2.0 · NIST 800-53 / RMF · CIS Controls v8 · CMMC 2.0 · CSA CCM ·
+ISO 27001 · SOC 2 · HIPAA · FedRAMP
+
+---
 
 ## Education
 
-- **M.Eng., Cybersecurity Policy and Compliance** — George Washington University (4.0 GPA, 2026)
-- **U.S. Navy** — 15+ years, Senior Electronics Technician, Department Information Systems Security Officer (DISSO) aboard USS Nimitz (CVN-68)
+- **M.Eng., Cybersecurity Policy & Compliance** — George Washington University *(in progress, Dec 2026)*
+- **A.S., Electronics & IT** — U.S. Navy Center for Surface Combat Systems Dahlgren
+- **M.Div. + B.A.** — Hellenic College / Holy Cross School of Theology
 
-## Currently Working On
-
-- Launching [CyberReadyLabs](https://cyberreadylabs.com) — fractional CISO services and the CyberReady Snapshot security assessment
-- Policy-as-Code framework for automated compliance validation
-- MITRE ATT&CK detection coverage mapping for Wazuh
-- M.Eng. capstone research in cybersecurity policy
+---
 
 ## Connect
 
-- **Website:** [cyberreadylabs.com](https://cyberreadylabs.com)
-- **LinkedIn:** [linkedin.com/in/john-codis](https://linkedin.com/in/john-codis)
+- [cyberreadylabs.com](https://cyberreadylabs.com)
+- [linkedin.com/in/john-codis](https://linkedin.com/in/john-codis/)
