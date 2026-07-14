@@ -48,7 +48,7 @@ ISO 27001 · SOC 2 · HIPAA · FedRAMP
 
 ## Education
 - **M.Eng., Cybersecurity Policy & Compliance** — George Washington University *(in progress, Dec 2026)*
-- **A.S., Electronics & IT** — U.S. Navy Center for Surface Combat Systems Dahlgren
+- **Electronics & Information Systems Technical Training** — U.S. Navy Center for Surface Combat Systems, Dahlgren *(ACE-recommended college credit)*
 - **M.Div. + B.A.** — Hellenic College / Holy Cross School of Theology
 
 ---
