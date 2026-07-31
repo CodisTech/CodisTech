@@ -1,6 +1,6 @@
 # John N. Codis Jr.
 **Fractional CISO · GRC Engineering · Applied AI for Security**
-CISSP · CCSP · Navy veteran · Based in Ann Arbor, MI
+CISSP · Navy veteran · Based in Ann Arbor, MI
 
 Founder of [CyberReadyLabs](https://cyberreadylabs.com), a fractional CISO practice
 helping small and mid-sized businesses get assessment, compliance, and policy
